@@ -1,0 +1,5 @@
+learning_rate : 0.001
+optimiser : torch.optim.SGD
+hidden_size : 100
+hidden_layer_width : 10
+depth : 10
